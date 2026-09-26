@@ -1,0 +1,12 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+python-dotenv>=1.0.0
+
+# Person 3: Remote-Sensing Vision AI
+pillow>=10.0.0
+python-multipart>=0.0.9
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.28.0
+
