@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "skills": {
+      "Marketing": 65.6,
+      "Graphic Design": 63.0,
+      "Communication": 60.5,
+      "Copywriting": 75
+    },
+    "performance": 64.6,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "skills": {
+      "Python": 95,
+      "Backend Development": 92,
+      "Database Design": 88,
+      "API Integration": 90
+    },
+    "performance": 94,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "skills": {
+      "Frontend Development": 90,
+      "React": 92,
+      "UI/UX Design": 86,
+      "Graphic Design": 70
+    },
+    "performance": 85,
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Sneha",
+    "skills": {
+      "Customer Support": 94,
+      "Communication": 92,
+      "Client Management": 89,
+      "Sales": 78
+    },
+    "performance": 91,
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "skills": {
+      "Finance": 92,
+      "Accounting": 88,
+      "Data Analysis": 82,
+      "Excel": 95
+    },
+    "performance": 87,
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Maya",
+    "skills": {
+      "Marketing": 85,
+      "Social Media": 92,
+      "Content Strategy": 88,
+      "Communication": 86
+    },
+    "performance": 89,
+    "available": true
+  }
+]

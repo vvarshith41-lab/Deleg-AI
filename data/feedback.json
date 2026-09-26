@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "task_id": 4,
+    "employee_id": 4,
+    "rating": 95,
+    "comments": "Exceptional communication and completed ahead of schedule with zero errors.",
+    "skills_evaluated": [
+      "Customer Support",
+      "Communication",
+      "Client Management"
+    ],
+    "timestamp": "2026-09-25T14:30:00Z"
+  },
+  {
+    "task_id": 5,
+    "employee_id": 1,
+    "rating": 40.0,
+    "comments": "Terrible campaign, didn't do well.",
+    "skills_evaluated": [
+      "Marketing",
+      "Graphic Design",
+      "Communication"
+    ],
+    "timestamp": "2026-09-26T09:39:52.132771Z",
+    "id": 2
+  },
+  {
+    "task_id": 5,
+    "employee_id": 1,
+    "rating": 40.0,
+    "comments": "Terrible campaign, didn't do well.",
+    "skills_evaluated": [
+      "Marketing",
+      "Graphic Design",
+      "Communication"
+    ],
+    "timestamp": "2026-09-26T09:40:02.666868Z",
+    "id": 3
+  },
+  {
+    "task_id": 6,
+    "employee_id": 1,
+    "rating": 40.0,
+    "comments": "Didn't meet the requirements well.",
+    "skills_evaluated": [
+      "Marketing",
+      "Graphic Design",
+      "Communication"
+    ],
+    "timestamp": "2026-09-26T09:45:49.380867Z",
+    "id": 4
+  }
+]
