@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Create Instagram Ad Campaign",
+    "description": "Create an Instagram advertisement for our new summer product launch including visuals and caption.",
+    "category": "Marketing",
+    "required_skills": [
+      "Marketing",
+      "Graphic Design",
+      "Communication"
+    ],
+    "priority": "High",
+    "difficulty": 3,
+    "deadline": "2026-10-05",
+    "status": "Assigned",
+    "assigned_to": 1
+  },
+  {
+    "id": 2,
+    "title": "Build REST API for Payment Gateway",
+    "description": "Implement Stripe checkout webhook endpoint and store transaction logs in database.",
+    "category": "Engineering",
+    "required_skills": [
+      "Python",
+      "Backend Development",
+      "API Integration"
+    ],
+    "priority": "Critical",
+    "difficulty": 4,
+    "deadline": "2026-10-02",
+    "status": "Assigned",
+    "assigned_to": 2
+  },
+  {
+    "id": 3,
+    "title": "Q3 Financial Statement Reconciliation",
+    "description": "Review and reconcile third quarter balance sheet, invoices, and expense reports.",
+    "category": "Finance",
+    "required_skills": [
+      "Finance",
+      "Accounting",
+      "Excel"
+    ],
+    "priority": "Medium",
+    "difficulty": 3,
+    "deadline": "2026-10-10",
+    "status": "Pending",
+    "assigned_to": null
+  },
+  {
+    "id": 4,
+    "title": "Client Onboarding Strategy Guide",
+    "description": "Draft comprehensive onboarding manual and communication templates for high-touch enterprise accounts.",
+    "category": "Operations",
+    "required_skills": [
+      "Customer Support",
+      "Communication",
+      "Client Management"
+    ],
+    "priority": "Medium",
+    "difficulty": 2,
+    "deadline": "2026-09-28",
+    "status": "Completed",
+    "assigned_to": 4
+  }
+]
